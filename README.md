@@ -118,10 +118,8 @@ The emotion recognition model uses a Bidirectional LSTM architecture:
 ## Performance
 
 The model achieves the following metrics on the test set:
-- Accuracy: X%
-- F1-Score: X%
-- Detailed performance metrics for each emotion category
-
+- Accuracy: 99%
+  
 ## LIME Analysis Features
 
 The project includes comprehensive LIME analysis tools:
@@ -131,26 +129,5 @@ The project includes comprehensive LIME analysis tools:
 - Misclassification analysis
 - Confidence distribution plots
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/emotion-recognition](https://github.com/yourusername/emotion-recognition)
-
-## Acknowledgments
-
-- NLTK team for text processing tools
-- LIME authors for interpretation framework
-- Dataset source/creators (add specific references)
